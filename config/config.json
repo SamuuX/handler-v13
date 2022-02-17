@@ -1,5 +1,4 @@
 {
-    "token": "",
-    "prefix": "",
-    "mongodb": ""
+    "prefix": ">",
+    "mongodb": "mongodb+srv://SamuelXD:eqXWLJDskBoz7rwj@cluster0.k29ju.mongodb.net/BotSamuuX?retryWrites=true&w=majority"
 }

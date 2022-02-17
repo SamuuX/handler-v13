@@ -1,0 +1,6 @@
+node_modules
+enmap.sqlite-wal
+enmap.sqlite-shm
+enmap.sqlite
+config/config.json
+README.md
